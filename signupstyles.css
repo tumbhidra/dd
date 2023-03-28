@@ -1,0 +1,211 @@
+@charset "utf-8";
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Tilt Neon', cursive;
+}
+body {
+  background-color: #FAEDCD;
+}
+
+.logo img {
+  width: 210px;
+  float: left;
+  padding-left: 3.5%;
+  margin-top: 10px;
+ }
+
+ .nav-area {
+  float: right;
+  margin-top: 20px;
+  list-style: none;
+  padding-top: 10px;
+  margin-right: 120px;
+  font-size: 20px;
+ }
+ .nav-area li {
+  display: inline-block;
+ }
+
+ .nav-area li a {
+  color: #B51800;
+  padding: 40px;
+ }
+
+ .nav-area li a:hover {
+  background-color: #FEAE00;
+  color: black;
+ }
+
+ .hanging img {
+  width: 100px;
+  float: right;
+  position: fixed;
+  left: 1290px;
+  top: 0;
+  margin: 0;
+}
+
+.offer img {
+  width: 100px;
+  position: absolute;
+  left: 1283px;
+  top: 490px;
+}
+
+.signup {
+    width: 330px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color: #FEAE00;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 555px;
+    top: 100px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+
+form input {
+    width: 92%;
+    outline: none;
+    border: 1px solid black;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: #e4e4e4;
+}
+
+button {
+    font-size: 1 rem;
+    margin-top: 1.8rem;
+    padding: 3px 0;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 90%;
+    background: #FAEDCD;
+    color: black;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+button:hover {
+    background: #B51800;
+}
+
+input:focus {
+    border: 1px solid rgb(192, 192, 192);
+}
+
+.member {
+    font-size: 0.8rem;
+    margin-top: 1.4rem;
+    color: #636363;
+}
+
+.member a {
+    color: rgb(17, 107, 143);
+    text-decoration: none;
+}
+
+
+
+
+
+.line img {
+    width: 1440px;
+    position: absolute;
+    top: 600px;
+    left: 0;
+  }
+  
+  .accept {
+    position: absolute;
+    left: 100px;
+    top: 700px; 
+    font-size: 20px;
+  }
+  
+  .visa img{
+    width: 40px;
+    position: absolute;
+    left: 145px;
+    top: 802px;
+  }
+  
+  .master img {
+      width: 40px;
+      position: absolute;
+      left: 190px;
+      top: 802px;
+  }
+  
+  .touch {
+    position: absolute;
+    left: 670px;
+    top: 700px;
+    font-size: 20px;
+  }
+  
+  .mail img {
+    width: 30px;
+    position: absolute;
+    left: 728px;
+    top: 754px;
+  }
+  
+  .wa2 img {
+    width: 28px;
+    position: absolute;
+    left: 765px;
+    top: 775px;
+  }
+  
+  .phone img {
+    width: 25px;
+    position: absolute;
+    left: 728px;
+    top: 800px;
+  }
+  
+  .follow {
+    position: absolute;
+    left: 1150px;
+    top: 700px;
+    font-size: 20px;
+  }
+  
+  .fb img {
+    width: 23px;
+    position: absolute;
+    left: 1240px;
+    top: 750px;
+  }
+  
+  .insta img {
+    width: 23px;
+    position: absolute;
+    left: 1245px;
+    top: 778px;
+  }
+  
+  .yt img {
+    width: 25px;
+    position: absolute;
+    left: 1228px;
+    top: 802px;
+  }
+  
+  .copy {
+    position: absolute;
+    left: 600px;
+    top: 880px;
+    font-size: 15px;
+  }

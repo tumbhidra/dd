@@ -1,0 +1,174 @@
+@charset "utf-8";
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Tilt Neon', cursive;
+}
+
+body {
+ background-color: #FAEDCD;
+	width: 1440px;
+}
+
+.logo img {
+  width: 160px;
+  float: left;
+  padding-left: 3.5%;
+  margin-top: 10px;
+ }
+
+ .nav-area {
+  float: right;
+  margin-top: 20px;
+  list-style: none;
+  padding-top: 10px;
+  margin-right: 120px;
+  font-size: 20px;
+ }
+ .nav-area li {
+  display: inline-block;
+ }
+
+ .nav-area li a {
+  color: #B51800;
+  padding: 40px;
+ }
+
+ .nav-area li a:hover {
+  background-color: #FEAE00;
+  color: black;
+ }
+
+ .hanging img {
+  width: 100px;
+  float: right;
+  position: fixed;
+  left: 1290px;
+  top: 0;
+  margin: 0;
+  display: inline;
+}
+
+.offer img {
+  width: 100px;
+  position: absolute;
+  left: 1283px;
+  top: 490px;
+}
+
+.menu {
+  text-align: center;
+ padding-top: 100px;
+ font-size: 30px;
+}
+
+.menu1 {
+ font-size: 50px;
+}
+
+.center {
+ padding-top: 50px;
+ margin-left: auto;
+ margin-right: auto;
+ font-size: 25px;
+}
+
+.center th {
+ text-align: left;
+ padding-left: 22px
+}
+
+
+
+
+
+.line img {
+  width: 1440px;
+  position: absolute;
+  top: 660px;
+  left: 0;
+}
+
+.accept {
+  position: absolute;
+  left: 100px;
+  top: 760px; 
+  font-size: 20px;
+}
+
+.visa img{
+  width: 40px;
+  position: absolute;
+  left: 145px;
+  top: 862px;
+}
+
+.master img {
+    width: 40px;
+    position: absolute;
+    left: 190px;
+    top: 862px;
+}
+
+.touch {
+  position: absolute;
+  left: 670px;
+  top: 760px;
+  font-size: 20px;
+}
+
+.mail img {
+  width: 30px;
+  position: absolute;
+  left: 728px;
+  top: 814px;
+}
+
+.wa2 img {
+  width: 28px;
+  position: absolute;
+  left: 765px;
+  top: 835px;
+}
+
+.phone img {
+  width: 25px;
+  position: absolute;
+  left: 728px;
+  top: 860px;
+}
+
+.follow {
+  position: absolute;
+  left: 1150px;
+  top: 760px;
+  font-size: 20px;
+}
+
+.fb img {
+  width: 23px;
+  position: absolute;
+  left: 1240px;
+  top: 810px;
+}
+
+.insta img {
+  width: 23px;
+  position: absolute;
+  left: 1245px;
+  top: 838px;
+}
+
+.yt img {
+  width: 25px;
+  position: absolute;
+  left: 1228px;
+  top: 862px;
+}
+
+.copy {
+  position: absolute;
+  left: 600px;
+  top: 950px;
+  font-size: 15px;
+}

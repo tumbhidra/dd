@@ -1,0 +1,79 @@
+
+<!Doctype html>
+<html>
+<head>
+<title> Menu </title>
+<div class="logo">
+<img src="donut.png" alt="donut-image">
+</div>
+<h1> Our Menu </h1>
+<h3> Explore our incredible menu of tasty food and drink options available for collection </h3>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<table class="center">
+<tr class="head">
+<th> Donuts </td>
+<th> Drinks </td>
+<th> Sides </td>
+</tr>
+
+<tr>
+<td> <li> Sugar Donuts </li> </td>
+<td> <li> Tea </li> </td>
+<td> <li> Capri Cans </li> </td>
+</tr>
+
+<tr>
+<td> <li> Cinnamon Sugar Donuts </li> </td>
+<td> <li> Coffee </li></td>
+<td> <li> Candy Floss </li> </td>
+</tr>
+
+<tr>
+<td> <li> Dinky Donuts & Cream </li> </td>
+<td> <li> Cappuccino </li></td>
+<td> <li> Dinky Dips </li> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> <li> Latte </li></td>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> <li> Hot Chocolate </li> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> <li> Hot Chocolate with Flake & Cream </li> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> <li> Water </li> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> <li> Cans </li> </td>
+<td> </td>
+</tr>
+
+</tr>
+<td> </td>
+<td> <li> Mr Bubble Drink </li> </td>
+<td> </td>
+</tr>
+
+
+
+</table>
+</body>
+</html>

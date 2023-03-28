@@ -1,0 +1,299 @@
+@charset "utf-8";
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Tilt Neon', cursive;
+}
+body {
+  height: 3500px;
+  background: linear-gradient(to bottom, #FAEDCD 0%, #ffffff 100%);
+}
+
+.logo img {
+  width: 160px;
+  float: left;
+  padding-left: 3.5%;
+  margin-top: 10px;
+ }
+
+ .nav-area {
+  float: right;
+  margin-top: 20px;
+  list-style: none;
+  padding-top: 10px;
+  margin-right: 120px;
+  font-size: 20px;
+ }
+ .nav-area li {
+  display: inline-block;
+ }
+
+ .nav-area li a {
+  color: #B51800;
+  padding: 40px;
+ }
+
+ .nav-area li a:hover {
+  background-color: #FEAE00;
+  color: black;
+ }
+
+ .hanging img {
+  width: 100px;
+  float: right;
+  position: fixed;
+  left: 1290px;
+  top: 0;
+  margin: 0;
+}
+
+.offer img {
+  width: 100px;
+  position: absolute;
+  left: 1283px;
+  top: 490px;
+}
+
+
+.tram img {
+  width: 800px;
+  float: right;
+  position: absolute;
+  left: 630px;
+  top: 180px;
+}
+
+.best img {
+  width: 500px;
+  margin: 0;
+  position: absolute;
+  left: 130px;
+  margin-top: 200px ;
+}
+.sugar img {
+  width: 300px;
+  margin: 0;
+  position: absolute;
+  left: 50px;
+  margin-top: 330px;
+}
+.cinnamon img {
+  width: 350px;
+  margin: 0;
+  position: absolute;
+  left: 350px;
+  margin-top: 350px;
+}
+
+.price1 {
+  position: absolute;
+  left: 290px;
+  top: 650px;
+  font-size: 30px;
+}
+
+
+.c1 img {
+  width: 280px;
+  position: absolute;
+  top: 593px;
+  left: 399px;
+}
+
+.c2 img {
+  width: 550px;
+  position: absolute;
+  top: 1100px;
+  left: 450px;
+}
+
+.c3 img {
+  width: 600px;
+  position: absolute;
+  top: 1500px;
+  left: 400px;
+  transform: scaleX(-1);
+}
+
+.c4 img {
+  width: 600px;
+  position: absolute;
+  top: 1900px;
+  left: 385px;
+}
+
+.c5 img {
+  width: 600px;
+  position: absolute;
+  top: 2300px;
+  left: 400px;
+  transform: scaleX(-1);
+}
+
+
+.oval1 img {
+  position: absolute;
+  top: 800px;
+  left: 140px;
+  width: 500px;
+}
+
+.drinks {
+  position: absolute;
+  top: 900px;
+  left: 320px;
+  font-size: 30px;
+	width: 500px;
+}
+
+.oval2 img {
+  position: absolute;
+  top: 1230px;
+  left: 850px;
+  width: 400px;
+}
+
+.bubble {
+  position: absolute;
+  top: 1350px;
+  left: 950px;
+  font-size: 30px;
+  width: 300px;
+}
+
+.oval3 img {
+  position: absolute;
+  top: 1660px;
+  left: 140px;
+  width: 400px;
+}
+
+.candy {
+  position: absolute;
+  top: 1760px;
+  left: 270px;
+  font-size: 30px;
+	width: 400px;
+}
+
+.oval4 img {
+  position: absolute;
+  top: 2090px;
+  left: 850px;
+  width: 400px;
+}
+
+.Cream {
+  position: absolute;
+  top: 2190px;
+  left: 980px;
+  font-size: 30px;
+	width: 400px;
+}
+
+.oval5 img {
+  position: absolute;
+  top: 2520px;
+  left: 140px;
+  width: 500px;
+}
+
+.dips {
+  position: absolute;
+  top: 2640px;
+  left: 320px;
+  font-size: 30px;
+}
+
+.line img {
+  width: 1440px;
+  position: absolute;
+  top: 3100px;
+  left: 0;
+}
+
+.accept {
+  position: absolute;
+  left: 100px;
+  top: 3200px; 
+  font-size: 20px;
+}
+
+.visa img{
+  width: 45px;
+  position: absolute;
+  left: 145px;
+  top: 3301px;
+}
+
+.master img {
+    width: 35px;
+    position: absolute;
+    left: 185px;
+    top: 3303px;
+}
+
+.touch {
+  position: absolute;
+  left: 670px;
+  top: 3200px;
+  font-size: 20px;
+	width: 300px;
+}
+
+.mail img {
+  width: 30px;
+  position: absolute;
+  left: 730px;
+  top: 3255px;
+}
+
+.wa2 img {
+  width: 28px;
+  position: absolute;
+  left: 765px;
+  top: 3275px;
+}
+
+.phone img {
+  width: 25px;
+  position: absolute;
+  left: 730px;
+  top: 3301px;
+}
+
+.follow {
+  position: absolute;
+  left: 1150px;
+  top: 3200px;
+  font-size: 20px;
+}
+
+.fb img {
+  width: 23px;
+  position: absolute;
+  left: 1240px;
+  top: 3250px;
+}
+
+.insta img {
+  width: 23px;
+  position: absolute;
+  left: 1245px;
+  top: 3278px;
+}
+
+.yt img {
+  width: 25px;
+  position: absolute;
+  left: 1228px;
+  top: 3301px;
+}
+
+.copy {
+  position: absolute;
+  left: 600px;
+  top: 3400px;
+  font-size: 15px;
+	width: 500px;
+}

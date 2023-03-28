@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<Head>
+    <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <title> DINKY D🍩NUTS
+    </title>
+    <link rel="icon" href="iconlogo.png" type="image/icon type">
+</head>
+<body>
+    <div class="curve">
+    
+    <div class="logo">
+        <img src="Logo.001.png" alt="dinky-logo">
+         <div class=nav-area>
+            <ul>
+            <li><a href"menu.html"> Menu</a></li>
+            <li><a href"menu.html"> Our Story</a></li>
+            <li><a href"menu.html"> Find Our Store</a></li>
+            <li><a href"menu.html"> Login/Register</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+    <div class="tram">
+        <img src="tram.png" alt="tram-image">
+    </div>
+    <div class="best">
+        <img src="best.png" alt="text">
+    </div>
+    <div class="sugar">
+        <img src="main-page-sugar.001.png" alt="sugar">
+    </div>
+    <div class="cinnamon">
+        <img src="main-page-cinnamon-sugar.001.png" alt="cinnamon-sugar">
+    </div>
+</body>
+
+</html>

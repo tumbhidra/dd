@@ -1,0 +1,223 @@
+@charset "utf-8";
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Tilt Neon', cursive;
+}
+body {
+    background-color: #FAEDCD;
+}
+
+.logo img {
+  width: 160px;
+  float: left;
+  padding-left: 3.5%;
+  margin-top: 10px;
+ }
+
+ .nav-area {
+  float: right;
+  margin-top: 20px;
+  list-style: none;
+  padding-top: 10px;
+  margin-right: 120px;
+  font-size: 20px;
+	
+ }
+ .nav-area li {
+  display: inline-block;
+ }
+
+ .nav-area li a {
+  color: #B51800;
+  padding: 40px;
+ }
+
+ .nav-area li a:hover {
+  background-color: #FEAE00;
+  color: black;
+ }
+
+ .hanging img {
+  width: 100px;
+  float: right;
+  position: fixed;
+  left: 1290px;
+  top: 0;
+  margin: 0;
+}
+
+.offer img {
+  width: 100px;
+  position: absolute;
+  left: 1283px;
+  top: 490px;
+}
+
+.eric img {
+    width: 300px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    border: 10px solid #FEAE00 ;
+}
+
+.name1 {
+    position: absolute;
+    left: 150px;
+    top: 570px;
+    font-size: 30px;
+}
+
+.tram-image img {
+    width: 300px;
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    border: 10px solid #FEAE00;
+}
+
+.name2 {
+    position: absolute;
+    left: 570px;
+    top: 570px;
+    font-size: 30px;
+}
+
+.conversation {
+    position: absolute;
+    top: 650px;
+    left: 150px;
+    font-size: 20px;
+}
+
+.contact {
+    position: absolute;
+    top: 680px;
+    left: 150px;
+    font-size: 20px;
+
+}
+
+.contact img {
+    width: 18px;
+}
+
+.dash img {
+    width: 700px;
+    position: absolute;
+    left: 150px;
+    top: 710px;
+}
+
+.feed {
+    position: absolute;
+    top: 790px;
+    left: 150px;
+    font-size: 20px;
+	width: 800px;
+	height: 550px;
+}
+
+.form {
+    position: absolute;
+    top: 860px;
+    left: 150px;
+	width: 800px;
+	height: 550px;
+}
+
+
+
+
+
+.line img {
+    width: 1440px;
+    position: absolute;
+    top: 1100px;
+    left: 0;
+  }
+  
+  .accept {
+    position: absolute;
+    left: 100px;
+    top: 1200px; 
+    font-size: 20px;
+  }
+  
+  .visa img{
+    width: 40px;
+    position: absolute;
+    left: 145px;
+    top: 1302px;
+  }
+  
+  .master img {
+      width: 40px;
+      position: absolute;
+      left: 190px;
+      top: 1302px;
+  }
+  
+  .touch {
+    position: absolute;
+    left: 670px;
+    top: 1200px;
+    font-size: 20px;
+  }
+  
+  .mail img {
+    width: 30px;
+    position: absolute;
+    left: 728px;
+    top: 1254px;
+  }
+  
+  .wa2 img {
+    width: 28px;
+    position: absolute;
+    left: 765px;
+    top: 1275px;
+  }
+  
+  .phone img {
+    width: 25px;
+    position: absolute;
+    left: 728px;
+    top: 1300px;
+  }
+  
+  .follow {
+    position: absolute;
+    left: 1150px;
+    top: 1200px;
+    font-size: 20px;
+  }
+  
+  .fb img {
+    width: 23px;
+    position: absolute;
+    left: 1240px;
+    top: 1250px;
+  }
+  
+  .insta img {
+    width: 23px;
+    position: absolute;
+    left: 1245px;
+    top: 1278px;
+  }
+  
+  .yt img {
+    width: 25px;
+    position: absolute;
+    left: 1228px;
+    top: 1302px;
+  }
+  
+  .copy {
+    position: absolute;
+    left: 600px;
+    top: 1400px;
+    font-size: 15px;
+  }
